@@ -1,6 +1,6 @@
 # coding=utf-8
 import unittest
-import HTMLTestRunner
+from common import HTMLTestRunner
 import time
 
 case_list = 'test_case'
