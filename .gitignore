@@ -6,8 +6,8 @@
 dist
 build
 
-report/*.html
-report/image/*.png
+*.html
+*.png
 *.log
 .idea
 
